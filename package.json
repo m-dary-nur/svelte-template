@@ -1,6 +1,7 @@
 {
   "name": "svelte-template",
   "description": "svelte starting template with support dynamic import + code splitting by default",
+  "private": true,
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
